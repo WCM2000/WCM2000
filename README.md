@@ -5,4 +5,5 @@
 - 🌱 I’m currently learning **Machine Learning , MERN Stack**
 - 💬 Ask me about **Python**
 - 📫 How to reach me **wenuramdc@gmail.com**
+- 💼 Connect with **www.linkedin.com/in/wenura-chamod-8573b1250**
 
