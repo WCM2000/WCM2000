@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋,  I'm Wenura Chamod</h1>
 <h3 align="center">I studied Computer Science at Plymouth University (UK) - Affiliated with NSBM Green University
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/userupload/2898020/file/original-fa2e11be8865cfcc3b9873312aa4be7e.jpg?resize=1024x768)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamindu99&label=Profile%20views&color=0e75b6&style=flat" alt="kamindu99" /> </p>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="[www.linkedin.com/in/wenura-chamod-8573b1250]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-jeewantha" height="30" width="40" /></a> 
+<a href="[www.linkedin.com/in/wenura-chamod-8573b1250]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wenura_Chamod" height="30" width="40" /></a> 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
